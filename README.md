@@ -1,5 +1,7 @@
 # reiner
 
+<img src="scr_sht/img.PNG">
+
 ## Project setup
 ```
 npm install
